@@ -90,8 +90,28 @@ print(F"A idade é {idade}")
 ```
 
 ## Tabelas
+Criam tabelas organizadas em colunas e linhas.
+
+Exemplo:
+| Cabeçalho 1 | Cabeçalho 2 |
+|------------ |------------ |
+| Dado 1      | Dado 2      |
+| Dado 3      | Dado 4      |
+
+## Listas de tarefas
+Criam listas de tarefas que podem ser marcadas como concluídas ou pendentees. 
+
+Exemplo:
+- [X] Tarefa concluída
+- [ ]  Tarefa pendente
 
 ## Refeências
+Aqui é um exemplo de marcação em rodapé[^1].
+
+A aula é com o Ricardo[^2].
+
+[^1]: Rodapé: Conteúdo inferior do documento.
+[^2]: Ricardo: Professor da turma de Git.
 
 ## Notas de rodapé
 
