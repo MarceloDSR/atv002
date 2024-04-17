@@ -62,10 +62,32 @@ Aqui é um texto <sub> suscrito </sub>
 Aqui é um texto <sup> sobrescrito </sup>
 
 ## Citações em bloco
+São usadas para destacar uma citação ou bloco de texto.
+
+Exemplo: 
+
+>Isso é uma citação em bloco.
 
 ## Linhas horizontais
+São usadas para criar uma linha horizontal para separar seções do documento.
+
+Exemplo:
+
+---
 
 ## Código
+
+permitem inserir blocos de código ou destacar código dentro do texto.
+
+Exemplo:
+
+Use crases (\`) para inserir código `inline`.
+
+```
+idade = 18
+print(F"A idade é {idade}")
+
+```
 
 ## Tabelas
 
