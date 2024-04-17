@@ -40,8 +40,26 @@ Exemplo:
 [texto do link](URL) para criar um link.
 
 ## Imagens
+Inserem imagens em um documento Markdown.
+
+Exemplo:
+
+![Imagem](URL_da_imagem)
 
 ## Ênfase
+Permitem enfatizar texto, como itálico, negrito, tachado, subscrito e sobrescrito.
+
+Exemplo:
+
+*texto em itálico* ou _texto em itálico_ para itálico
+
+**Texto em negrito** ou __texto em negrito__ para negrito.
+
+~~Texto em tachado~~
+
+Aqui é um texto <sub> suscrito </sub>
+
+Aqui é um texto <sup> sobrescrito </sup>
 
 ## Citações em bloco
 
