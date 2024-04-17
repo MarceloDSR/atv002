@@ -114,6 +114,25 @@ A aula é com o Ricardo[^2].
 [^2]: Ricardo: Professor da turma de Git.
 
 ## Notas de rodapé
+Aqui é um exemplo de marcação em rodapé[^1].
+
+A aula é com o Ricardo[^2].
+
+[^1]: Rodapé: Conteúdo inferior do documento.
+[^2]: Ricardo: Professor da turma de Git.
 
 ## Alertas
+São usados para destacar informações importantes, como notas, avisos ou mensagens.
 
+Exemplo:
+> **Note**
+> Esta é uma nota
+
+> [!note]
+> Destaca informações que os usuários devem levar em consideração, mesmo durante a leitura superficial.
+
+> [!IMPORTANTE]
+> Informações cruciais necessárias para o sucesso dos usuários.
+
+> [!WARING]
+>  Conteúde crítico que exige atenção imediata do usuário devido a riscos potenciais. 
