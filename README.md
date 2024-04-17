@@ -131,8 +131,8 @@ Exemplo:
 > [!note]
 > Destaca informações que os usuários devem levar em consideração, mesmo durante a leitura superficial.
 
-> [!IMPORTANTE]
+> [!IMPORTANT]
 > Informações cruciais necessárias para o sucesso dos usuários.
 
-> [!WARING]
+> [!WARNING]
 >  Conteúde crítico que exige atenção imediata do usuário devido a riscos potenciais. 
