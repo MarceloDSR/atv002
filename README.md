@@ -10,9 +10,22 @@ Exemplo:
 ### Título 3
 
 ## Parágrafos
+Simplismente escreva seu texto como parágrafos normais. Não é necessário nenhum tipo de marcação adicional.
+
+Exemplo:
+Aqui eu tenho parágrafo
 
 ## Listas
 
+Permitem criar listas ordenadas ou não ordenadas.
+
+Exemplo:
+Lista não ordenada:
+
+* Item1
+* Item2
+* Item3
+  
 ## Links
 
 ## Imagens
